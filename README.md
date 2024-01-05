@@ -17,4 +17,5 @@ How to Use:
 Explore the code, enhance your note-taking experience, and share your feedback!
 
 Follow my coding journey on LinkedIn: https://www.linkedin.com/in/anuragjaiswal5826/
+
 This project is part of a 30-day coding challenge. More exciting projects coming soon!
